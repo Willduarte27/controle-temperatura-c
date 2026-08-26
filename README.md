@@ -8,7 +8,7 @@ Sistema modular em linguagem C desenvolvido para leitura, validação e exibiç�
 * **Interface interativa:** Permite realizar múltiplos testes em sequência através de um menu simples.
 
 ## 🎥 Demonstração do Funcionamento
-<video src="ScreenRecording2026-08-26153612-ezgif.com-video-to-gif-converter.gif" width="100%" controls></video>
+<img src="ScreenRecording2026-08-26153612-ezgif.com-video-to-gif-converter.gif" width="100%" controls></img>
 
 ---
 *Projeto acadêmico desenvolvido em C utilizando o Code::Blocks.*
